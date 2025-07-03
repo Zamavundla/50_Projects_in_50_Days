@@ -49,13 +49,24 @@ It’s where I track the shift from learner to builder. From paused to present.
 
 ---
 
-## 📅 Project Log (50 Projects in 50 Days)
+## 📅 Project Log
 
-| Day | Project Title        | Status     | Notes                             |
-|-----|----------------------|------------|-----------------------------------|
-| 1   | Expanding Cards      | ✅ Complete | A visual comeback. Clean and fun. |
-| 2   | Coming Soon...       | ⏳ In Progress | Keeping the streak alive.      |
-| ... | ...                  | ...        | ...                               |
+| Day | Project Title        | Status         | Notes                                               |
+|-----|----------------------|----------------|-----------------------------------------------------|
+| 1   | Expanding Cards      | ✅ Complete    | A visual comeback. Clean, responsive, and fun.     |
+| 2   | Progress Steps       | ✅ Complete    | Brushed up DOM skills. Smooth transitions!         |
+| 3   | Coming Soon...       | ⏳ In Progress | Keeping the streak alive.                          |
+| 4   |                      | ⌛ Not Started | Ready to level up tomorrow.                        |
+| ... | ...                  | ...            | ...                                                 |
+
+---
+
+## 🧠 Goals
+
+- ✅ Rebuild momentum after a coding break
+- ✅ Strengthen my frontend fundamentals
+- ✅ Create a consistent habit of building
+- ✅ Document my growth
 
 ---
 

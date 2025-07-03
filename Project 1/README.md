@@ -59,7 +59,7 @@ Stay inspired.
 Take breaks — but always return.  
 This time, you're not just building interfaces — you're building **consistency, confidence, and character**.
 
-> **"Here’s to committing daily — not just to GitHub, but to your goals, growth, and grit."**
+> **"Here’s to committing daily — not just to GitHub, but to my goals, my growth, and my grit."**
 
 ---
 
@@ -75,5 +75,5 @@ This time, you're not just building interfaces — you're building **consistency
 ## 🧭 Author
 
 **Zamavundla Samkelisiwe Duze**  
-Ex-nautical, now navigating tech.  
-Coding for clarity, growth, and joy.
+Ex-nautical student, now navigating tech.  
+Coding for Clarity, Growth, and Joy.
