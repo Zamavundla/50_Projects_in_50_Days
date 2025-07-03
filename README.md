@@ -64,7 +64,6 @@ It’s where I track the shift from learner to builder. From paused to present.
 Be patient.  
 Stay inspired.  
 Take breaks — but always return.  
-This time, you’re not just building interfaces — you’re building **consistency, confidence, and character**.
+This time, I am not just building interfaces — I am building **consistency, confidence, and character**.
 
-> **"Here’s to committing daily — not just to GitHub, but to your goals, growth, and grit."**  
 Let’s build. Let’s learn. Let’s ship.
