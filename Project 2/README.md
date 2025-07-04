@@ -36,7 +36,6 @@ progress-steps/
 ├── styles.css # Styling rules
 ├── script.js # Interactivity logic
 
-
 ---
 
 ## 🧠 What I Learned
