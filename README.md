@@ -2,50 +2,52 @@
 
 ## 🎯 50 Projects in 50 Days – My Personal Comeback
 
-It’s not that I stopped coding. I’ve touched projects, tried ideas, built pieces.  
+It’s not that I stopped coding. I’ve explored, experimented, even launched.  
 But this — this is different.  
-This is **me, showing up intentionally**.  
+This is **me, showing up with intention**.  
 No rush. No pressure. Just consistent action, creative flow, and structure I can grow through.
 
-This journey isn’t just about code. It’s about **discipline, momentum, and rebuilding confidence** — one project at a time.
+This journey isn’t just about code. It’s about **discipline, momentum, and rebuilding confidence** — one meaningful project at a time.
 
 ---
 
-### 🌟 Inspiration In My World
+## 🌟 Inspiration In My World
 
-There’s a kind of peace in building something from nothing.  
-Code gives me a way to **shape the invisible into something meaningful**.  
+There’s a quiet kind of power in building something from nothing.  
+Code gives me a way to **shape the invisible into something meaningful** — like thoughts into logic, dreams into pixels.  
+
 > *"The best way to predict the future is to create it."* — Abraham Lincoln
 
 ---
 
-### 🌱 New Life In This World
+## 🌱 New Life In This World
 
-This is not a reset — it’s a **continuation**.  
-I’m stepping back into the world of software with the same energy that got me through nautical charts and dev certificates — just repurposed into pixels, logic, and interaction.
+This isn’t a reset — it’s a **reclaiming**.  
+I’m stepping back into software with the same energy that got me through nautical charts and dev certificates — repurposed into lines of code and user interaction.
 
 ---
 
-### 🪜 Steps Of Life In This World
+## 🪜 Steps Of Life In This World
 
-Every small win is a step forward.  
+Every small win is a step forward:  
 A cleaner layout. A fixed bug. A smoother animation.  
-Some steps may be small, but they all move me forward.  
+Each line of code is a brushstroke in a bigger portrait of progress.
 
 ---
 
-### 🌌 The Universe
+## 🌌 The Universe
 
-The coding world is vast — just like the ocean I once studied.  
-There are depths to explore, patterns to understand, systems to navigate.  
-And now I do that through lines of code instead of latitude and longitude.
+The coding world is vast — like the ocean I once studied.  
+There are depths to explore, patterns to understand, and systems to navigate.  
+Now, I do that through functions and frameworks, not just latitude and longitude.
 
 ---
 
-### 🌍 My World
+## 🌍 My World
 
-This repo isn’t just a log of projects — it’s my **journal of growth**.  
-It’s where I track the shift from learner to builder. From paused to present.
+This repo isn’t just a log of code — it’s my **journal of growth**.  
+A record of how I shifted from stuck to steady.  
+From paused to present. From hesitant to hands-on.
 
 ---
 
@@ -53,20 +55,22 @@ It’s where I track the shift from learner to builder. From paused to present.
 
 | Day | Project Title        | Status         | Notes                                               |
 |-----|----------------------|----------------|-----------------------------------------------------|
-| 1   | Expanding Cards      | ✅ Complete    | A visual comeback. Clean, responsive, and fun.     |
-| 2   | Progress Steps       | ✅ Complete    | Brushed up DOM skills. Smooth transitions!         |
-| 3   | Coming Soon...       | ⏳ In Progress | Keeping the streak alive.                          |
-| 4   |                      | ⌛ Not Started | Ready to level up tomorrow.                        |
+| 1   | Expanding Cards      | ✅ Complete     | A visual comeback. Clean, responsive, and fun.      |
+| 2   | Progress Steps       | ✅ Complete     | Brushed up DOM skills. Smooth transitions!          |
+| 3   | Rotating Navigation  | ✅ Complete     | Rebuilt a nav from scratch — powerful refresher!    |
+| 4   | Hidden Search        | ✅ Complete     | Clean interaction, minimal UI. Loved it.            |
+| 5   | Blur Loading         | ✅ Complete     | Learned to sync visuals with asset readiness.       |
 | ... | ...                  | ...            | ...                                                 |
 
 ---
 
 ## 🧠 Goals
 
-- ✅ Rebuild momentum after a coding break
-- ✅ Strengthen my frontend fundamentals
-- ✅ Create a consistent habit of building
-- ✅ Document my growth
+- ✅ Rebuild momentum after a coding break  
+- ✅ Strengthen frontend fundamentals  
+- ✅ Create a consistent habit of building  
+- ✅ Document the journey publicly  
+- ✅ Learn by doing — not just reading  
 
 ---
 
@@ -75,6 +79,6 @@ It’s where I track the shift from learner to builder. From paused to present.
 Be patient.  
 Stay inspired.  
 Take breaks — but always return.  
-This time, I am not just building interfaces — I am building **consistency, confidence, and character**.
+This time, I’m not just building interfaces — I’m building **consistency, confidence, and character**.
 
 Let’s build. Let’s learn. Let’s ship.
